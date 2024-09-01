@@ -2,11 +2,9 @@
 #include <WiFiClientSecure.h>
 #include <ssl_client.h>
 
-// #define SSID "E426867F5D3B-2G"
-// #define PASSWORD "gapf8fcpgfd2e8"
-#define TOKEN "xedWGy5ZY6UJBB1UrM4TgvTh6YaqDKpXBv2vlOQgvKY"
-#define SSID "The_Fire_Choir"
-#define PASSWORD "smile108"
+#define TOKEN ""
+#define SSID ""
+#define PASSWORD ""
 
 int lcdValue_g = 9;
 
